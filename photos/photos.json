@@ -1,0 +1,48 @@
+{
+ "updated": "",
+ "categories": [
+  {
+   "slug": "church",
+   "name": "교회행사",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "corp",
+   "name": "기업행사",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "gov",
+   "name": "지자체 · 축제",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "school",
+   "name": "학교행사",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "show",
+   "name": "전시 · 공연",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "install",
+   "name": "설치",
+   "desc": "",
+   "count": 0
+  },
+  {
+   "slug": "gear",
+   "name": "장비",
+   "desc": "",
+   "count": 0
+  }
+ ],
+ "photos": []
+}
