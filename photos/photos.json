@@ -1,5 +1,5 @@
 {
- "updated": "",
+ "updated": "2026-10-10T09:15:14.080Z",
  "categories": [
   {
    "slug": "church",
@@ -17,7 +17,7 @@
    "slug": "gov",
    "name": "지자체 · 축제",
    "desc": "",
-   "count": 0
+   "count": 3
   },
   {
    "slug": "school",
@@ -44,5 +44,39 @@
    "count": 0
   }
  ],
- "photos": []
+ "photos": [
+  {
+   "path": "photos/gov/20260919-wqe0-003.jpg",
+   "cat": "gov",
+   "event": "위스테이지축 민트페스티벌 마을음악회",
+   "date": "2026-09-19",
+   "place": "지축 위스테이아파트 잔디광장",
+   "caption": "위스테이지축 민트페스티벌 마을음악회",
+   "desc": "위스테이지축 협동조합 아파트\n주민들이 만드는 음악축제, 마을축제\n출연진 : 싱어송라이터 시와, 전기뱀장어, 단편선, 반디, 마을밴드 이음\n주민들이 서로 즐기는 모습이 참 보기 좋았습니다",
+   "thumb": "photos/_cover/20260919-wqe0-sq.jpg",
+   "cover": "photos/_cover/20260919-wqe0-wide.jpg"
+  },
+  {
+   "path": "photos/gov/20260919-wqe0-002.jpg",
+   "cat": "gov",
+   "event": "위스테이지축 민트페스티벌 마을음악회",
+   "date": "2026-09-19",
+   "place": "지축 위스테이아파트 잔디광장",
+   "caption": "위스테이지축 민트페스티벌 마을음악회",
+   "desc": "위스테이지축 협동조합 아파트\n주민들이 만드는 음악축제, 마을축제\n출연진 : 싱어송라이터 시와, 전기뱀장어, 단편선, 반디, 마을밴드 이음\n주민들이 서로 즐기는 모습이 참 보기 좋았습니다",
+   "thumb": "photos/_cover/20260919-wqe0-sq.jpg",
+   "cover": "photos/_cover/20260919-wqe0-wide.jpg"
+  },
+  {
+   "path": "photos/gov/20260919-wqe0-001.jpg",
+   "cat": "gov",
+   "event": "위스테이지축 민트페스티벌 마을음악회",
+   "date": "2026-09-19",
+   "place": "지축 위스테이아파트 잔디광장",
+   "caption": "위스테이지축 민트페스티벌 마을음악회",
+   "desc": "위스테이지축 협동조합 아파트\n주민들이 만드는 음악축제, 마을축제\n출연진 : 싱어송라이터 시와, 전기뱀장어, 단편선, 반디, 마을밴드 이음\n주민들이 서로 즐기는 모습이 참 보기 좋았습니다",
+   "thumb": "photos/_cover/20260919-wqe0-sq.jpg",
+   "cover": "photos/_cover/20260919-wqe0-wide.jpg"
+  }
+ ]
 }
