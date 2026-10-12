@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T09:15:14.080Z",
+ "updated": "2026-10-12T22:37:18.050Z",
  "categories": [
   {
    "slug": "church",
@@ -29,7 +29,7 @@
    "slug": "show",
    "name": "전시 · 공연",
    "desc": "",
-   "count": 0
+   "count": 6
   },
   {
    "slug": "install",
@@ -45,6 +45,72 @@
   }
  ],
  "photos": [
+  {
+   "path": "photos/show/20261011-ftdv-006.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
+  {
+   "path": "photos/show/20261011-ftdv-005.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
+  {
+   "path": "photos/show/20261011-ftdv-004.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
+  {
+   "path": "photos/show/20261011-ftdv-003.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
+  {
+   "path": "photos/show/20261011-ftdv-002.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
+  {
+   "path": "photos/show/20261011-ftdv-001.jpg",
+   "cat": "show",
+   "event": "용인싱어즈 창단연주회",
+   "date": "2026-10-11",
+   "place": "용인예술원 마루홀",
+   "caption": "용인싱어즈 창단연주회",
+   "desc": "용인싱어즈의 창단 공연에 음향과 전자드럼 EFNOTE3 대여로 함께했습니다\n현악 앙상블팀과 joy together band가 함께 했습니다",
+   "thumb": "photos/_cover/20261011-ftdv-sq.jpg",
+   "cover": "photos/_cover/20261011-ftdv-wide.jpg"
+  },
   {
    "path": "photos/gov/20260919-wqe0-003.jpg",
    "cat": "gov",
